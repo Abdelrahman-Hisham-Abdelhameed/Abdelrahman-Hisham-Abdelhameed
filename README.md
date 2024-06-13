@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 👋 Hi there, I am @Abdelrahman-Hisham-Abdelhameed
 - 👀 I am interested in Robotics, Machine Learning, and Computer Vision.
 - 🌱 I’m currently learning Computer Vision.
-- 
 ### Connect with me
 [![Gmail Badge](https://img.shields.io/badge/-abdelrahman.abdelhameed@ieee.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdelrahman.abdelhameed@ieee.org)](mailto:abdelrahman.abdelhameed@ieee.org)
 [![Linkedin Badge](https://img.shields.io/badge/-AbdelrahmanAbdelgawad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/abdelrahman-abdelgawad/](https://www.linkedin.com/in/abdelrahmanhisham/))](https://www.linkedin.com/in/abdelrahmanhisham/)
