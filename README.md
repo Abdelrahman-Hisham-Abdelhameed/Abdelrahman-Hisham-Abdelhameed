@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋
 
-- 👋 Hi there, I am @Abdelrahman-Hisham-Abdelhameed
+- 👋 Hi there, I am Abdelrahman Abdelhameed
 - 👀 I am interested in Robotics, Machine Learning, and Computer Vision.
 - 🌱 I’m currently learning Computer Vision.
 ### Connect with me
