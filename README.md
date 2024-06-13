@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there I am Abdelrahman Abdelhameed 👋
+## Hi there, I am Abdelrahman Abdelhameed 👋
 
-- 👋 Hi there, I am Mechatronics and Robotics Student @E-JUST
+- 🤖 I am a Mechatronics and Robotics Student @E-JUST
 - 👀 I am interested in Robotics, Machine Learning, and Computer Vision.
 - 🌱 I’m currently learning Computer Vision.
 ### Connect with me
